@@ -1,0 +1,48 @@
+D:\Visual Studio 2013 Project\Projects\MNDTVisualization\MNDTVisualization\bin\Debug\MNDTVisualization.exe.config
+D:\Visual Studio 2013 Project\Projects\MNDTVisualization\MNDTVisualization\bin\Debug\MNDTVisualization.exe
+D:\Visual Studio 2013 Project\Projects\MNDTVisualization\MNDTVisualization\bin\Debug\MNDTVisualization.pdb
+D:\Visual Studio 2013 Project\Projects\MNDTVisualization\MNDTVisualization\obj\Debug\MNDTVisualization.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013 Project\Projects\MNDTVisualization\MNDTVisualization\obj\Debug\MNDTVisualization.Properties.Resources.resources
+D:\Visual Studio 2013 Project\Projects\MNDTVisualization\MNDTVisualization\obj\Debug\MNDTVisualization.csproj.GenerateResource.Cache
+D:\Visual Studio 2013 Project\Projects\MNDTVisualization\MNDTVisualization\obj\Debug\MNDTVisualization.exe
+D:\Visual Studio 2013 Project\Projects\MNDTVisualization\MNDTVisualization\obj\Debug\MNDTVisualization.pdb
+D:\Visual Studio 2013 Project\Projects\MNDTVisualization\MNDTVisualization\bin\Debug\MNDTLibrary.dll
+D:\Visual Studio 2013 Project\Projects\MNDTVisualization\MNDTVisualization\bin\Debug\MNDTLibrary.pdb
+D:\Visual Studio 2013 Project\Projects\MNDTVisualization\MNDTVisualization\obj\Debug\MNDTVisualization.MNDT.resources
+D:\Visual Studio 2013 Project\Projects\MNDTVisualization\MNDTVisualization\obj\Debug\MNDTVisualization.ImageForm.resources
+D:\services6\Image\MNDTVisualization\MNDTVisualization\bin\Debug\MNDTVisualization.exe.config
+D:\services6\Image\MNDTVisualization\MNDTVisualization\obj\Debug\MNDTVisualization.exe
+D:\services6\Image\MNDTVisualization\MNDTVisualization\obj\Debug\MNDTVisualization.pdb
+D:\services6\Image\MNDTVisualization\MNDTVisualization\bin\Debug\MNDTVisualization.exe
+D:\services6\Image\MNDTVisualization\MNDTVisualization\bin\Debug\MNDTVisualization.pdb
+D:\services6\Image\MNDTVisualization\MNDTVisualization\bin\Debug\MNDTLibrary.dll
+D:\services6\Image\MNDTVisualization\MNDTVisualization\bin\Debug\MNDTLibrary.pdb
+D:\services6\Image\MNDTVisualization\MNDTVisualization\obj\Debug\MNDTVisualization.csprojResolveAssemblyReference.cache
+D:\services6\Image\MNDTVisualization\MNDTVisualization\obj\Debug\MNDTVisualization.MNDT.resources
+D:\services6\Image\MNDTVisualization\MNDTVisualization\obj\Debug\MNDTVisualization.ImageForm.resources
+D:\services6\Image\MNDTVisualization\MNDTVisualization\obj\Debug\MNDTVisualization.Properties.Resources.resources
+D:\services6\Image\MNDTVisualization\MNDTVisualization\obj\Debug\MNDTVisualization.csproj.GenerateResource.Cache
+D:\VisualStudio2013Project\Projects\MNDTVisualization\MNDTVisualization\bin\Debug\MNDTVisualization.exe.config
+D:\VisualStudio2013Project\Projects\MNDTVisualization\MNDTVisualization\obj\Debug\MNDTVisualization.exe
+D:\VisualStudio2013Project\Projects\MNDTVisualization\MNDTVisualization\obj\Debug\MNDTVisualization.pdb
+D:\VisualStudio2013Project\Projects\MNDTVisualization\MNDTVisualization\bin\Debug\MNDTVisualization.exe
+D:\VisualStudio2013Project\Projects\MNDTVisualization\MNDTVisualization\bin\Debug\MNDTVisualization.pdb
+D:\VisualStudio2013Project\Projects\MNDTVisualization\MNDTVisualization\bin\Debug\MNDTLibrary.dll
+D:\VisualStudio2013Project\Projects\MNDTVisualization\MNDTVisualization\bin\Debug\MNDTLibrary.pdb
+D:\VisualStudio2013Project\Projects\MNDTVisualization\MNDTVisualization\obj\Debug\MNDTVisualization.csprojResolveAssemblyReference.cache
+D:\VisualStudio2013Project\Projects\MNDTVisualization\MNDTVisualization\obj\Debug\MNDTVisualization.MNDT.resources
+D:\VisualStudio2013Project\Projects\MNDTVisualization\MNDTVisualization\obj\Debug\MNDTVisualization.ImageForm.resources
+D:\VisualStudio2013Project\Projects\MNDTVisualization\MNDTVisualization\obj\Debug\MNDTVisualization.Properties.Resources.resources
+D:\VisualStudio2013Project\Projects\MNDTVisualization\MNDTVisualization\obj\Debug\MNDTVisualization.csproj.GenerateResource.Cache
+D:\GitHub\FaceImage\MNDTVisualization\MNDTVisualization\bin\Debug\MNDTVisualization.exe.config
+D:\GitHub\FaceImage\MNDTVisualization\MNDTVisualization\obj\Debug\MNDTVisualization.exe
+D:\GitHub\FaceImage\MNDTVisualization\MNDTVisualization\obj\Debug\MNDTVisualization.pdb
+D:\GitHub\FaceImage\MNDTVisualization\MNDTVisualization\bin\Debug\MNDTVisualization.exe
+D:\GitHub\FaceImage\MNDTVisualization\MNDTVisualization\bin\Debug\MNDTVisualization.pdb
+D:\GitHub\FaceImage\MNDTVisualization\MNDTVisualization\bin\Debug\MNDTLibrary.dll
+D:\GitHub\FaceImage\MNDTVisualization\MNDTVisualization\bin\Debug\MNDTLibrary.pdb
+D:\GitHub\FaceImage\MNDTVisualization\MNDTVisualization\obj\Debug\MNDTVisualization.csprojResolveAssemblyReference.cache
+D:\GitHub\FaceImage\MNDTVisualization\MNDTVisualization\obj\Debug\MNDTVisualization.MNDT.resources
+D:\GitHub\FaceImage\MNDTVisualization\MNDTVisualization\obj\Debug\MNDTVisualization.ImageForm.resources
+D:\GitHub\FaceImage\MNDTVisualization\MNDTVisualization\obj\Debug\MNDTVisualization.Properties.Resources.resources
+D:\GitHub\FaceImage\MNDTVisualization\MNDTVisualization\obj\Debug\MNDTVisualization.csproj.GenerateResource.Cache

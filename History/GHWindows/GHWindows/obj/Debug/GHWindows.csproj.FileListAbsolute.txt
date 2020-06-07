@@ -1,0 +1,68 @@
+D:\Visual Studio 2015\Project\GHWindows\GHWindows\bin\Debug\GHWindows.exe.config
+D:\Visual Studio 2015\Project\GHWindows\GHWindows\obj\Debug\GHWindows.Form1.resources
+D:\Visual Studio 2015\Project\GHWindows\GHWindows\obj\Debug\GHWindows.Properties.Resources.resources
+D:\Visual Studio 2015\Project\GHWindows\GHWindows\obj\Debug\GHWindows.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\Project\GHWindows\GHWindows\bin\Debug\GHWindows.exe
+D:\Visual Studio 2015\Project\GHWindows\GHWindows\bin\Debug\GHWindows.pdb
+D:\Visual Studio 2015\Project\GHWindows\GHWindows\bin\Debug\Emgu.CV.UI.dll
+D:\Visual Studio 2015\Project\GHWindows\GHWindows\bin\Debug\Emgu.CV.UI.GL.dll
+D:\Visual Studio 2015\Project\GHWindows\GHWindows\bin\Debug\Emgu.CV.World.dll
+D:\Visual Studio 2015\Project\GHWindows\GHWindows\bin\Debug\ZedGraph.dll
+D:\Visual Studio 2015\Project\GHWindows\GHWindows\bin\Debug\Emgu.CV.UI.xml
+D:\Visual Studio 2015\Project\GHWindows\GHWindows\bin\Debug\Emgu.CV.UI.GL.xml
+D:\Visual Studio 2015\Project\GHWindows\GHWindows\bin\Debug\Emgu.CV.World.xml
+D:\Visual Studio 2015\Project\GHWindows\GHWindows\obj\Debug\GHWindows.exe
+D:\Visual Studio 2015\Project\GHWindows\GHWindows\obj\Debug\GHWindows.pdb
+D:\Visual Studio 2015\Project\GHWindows\GHWindows\bin\Debug\OpenTK.dll
+D:\Visual Studio 2015\Project\GHWindows\GHWindows\bin\Debug\OpenTK.GLControl.dll
+D:\Visual Studio 2015\Project\GHWindows\GHWindows\bin\Debug\OpenTK.xml
+D:\Visual Studio 2015\Project\GHWindows\GHWindows\bin\Debug\OpenTK.GLControl.xml
+D:\Visual Studio 2015\Project\GHWindows\GHWindows\bin\Debug\ZedGraph.xml
+D:\Visual Studio 2015\Project\GHWindows\GHWindows\bin\Debug\de\ZedGraph.resources.dll
+D:\Visual Studio 2015\Project\GHWindows\GHWindows\bin\Debug\es\ZedGraph.resources.dll
+D:\Visual Studio 2015\Project\GHWindows\GHWindows\bin\Debug\fr\ZedGraph.resources.dll
+D:\Visual Studio 2015\Project\GHWindows\GHWindows\bin\Debug\hu\ZedGraph.resources.dll
+D:\Visual Studio 2015\Project\GHWindows\GHWindows\bin\Debug\it\ZedGraph.resources.dll
+D:\Visual Studio 2015\Project\GHWindows\GHWindows\bin\Debug\ja\ZedGraph.resources.dll
+D:\Visual Studio 2015\Project\GHWindows\GHWindows\bin\Debug\pt\ZedGraph.resources.dll
+D:\Visual Studio 2015\Project\GHWindows\GHWindows\bin\Debug\ru\ZedGraph.resources.dll
+D:\Visual Studio 2015\Project\GHWindows\GHWindows\bin\Debug\sk\ZedGraph.resources.dll
+D:\Visual Studio 2015\Project\GHWindows\GHWindows\bin\Debug\sv\ZedGraph.resources.dll
+D:\Visual Studio 2015\Project\GHWindows\GHWindows\bin\Debug\tr\ZedGraph.resources.dll
+D:\Visual Studio 2015\Project\GHWindows\GHWindows\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Visual Studio 2015\Project\GHWindows\GHWindows\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Visual Studio 2015\Project\GHWindows\GHWindows\obj\Debug\GHWindows.csprojResolveAssemblyReference.cache
+D:\下載\GHWindows\GHWindows\obj\Debug\GHWindows.exe
+D:\下載\GHWindows\GHWindows\obj\Debug\GHWindows.pdb
+D:\下載\GHWindows\GHWindows\bin\Debug\GHWindows.exe.config
+D:\下載\GHWindows\GHWindows\bin\Debug\GHWindows.exe
+D:\下載\GHWindows\GHWindows\bin\Debug\GHWindows.pdb
+D:\下載\GHWindows\GHWindows\bin\Debug\Emgu.CV.UI.dll
+D:\下載\GHWindows\GHWindows\bin\Debug\Emgu.CV.UI.GL.dll
+D:\下載\GHWindows\GHWindows\bin\Debug\Emgu.CV.World.dll
+D:\下載\GHWindows\GHWindows\bin\Debug\OpenTK.dll
+D:\下載\GHWindows\GHWindows\bin\Debug\OpenTK.GLControl.dll
+D:\下載\GHWindows\GHWindows\bin\Debug\ZedGraph.dll
+D:\下載\GHWindows\GHWindows\bin\Debug\Emgu.CV.UI.xml
+D:\下載\GHWindows\GHWindows\bin\Debug\Emgu.CV.UI.GL.xml
+D:\下載\GHWindows\GHWindows\bin\Debug\Emgu.CV.World.xml
+D:\下載\GHWindows\GHWindows\bin\Debug\OpenTK.xml
+D:\下載\GHWindows\GHWindows\bin\Debug\OpenTK.GLControl.xml
+D:\下載\GHWindows\GHWindows\bin\Debug\ZedGraph.xml
+D:\下載\GHWindows\GHWindows\bin\Debug\de\ZedGraph.resources.dll
+D:\下載\GHWindows\GHWindows\bin\Debug\es\ZedGraph.resources.dll
+D:\下載\GHWindows\GHWindows\bin\Debug\fr\ZedGraph.resources.dll
+D:\下載\GHWindows\GHWindows\bin\Debug\hu\ZedGraph.resources.dll
+D:\下載\GHWindows\GHWindows\bin\Debug\it\ZedGraph.resources.dll
+D:\下載\GHWindows\GHWindows\bin\Debug\ja\ZedGraph.resources.dll
+D:\下載\GHWindows\GHWindows\bin\Debug\pt\ZedGraph.resources.dll
+D:\下載\GHWindows\GHWindows\bin\Debug\ru\ZedGraph.resources.dll
+D:\下載\GHWindows\GHWindows\bin\Debug\sk\ZedGraph.resources.dll
+D:\下載\GHWindows\GHWindows\bin\Debug\sv\ZedGraph.resources.dll
+D:\下載\GHWindows\GHWindows\bin\Debug\tr\ZedGraph.resources.dll
+D:\下載\GHWindows\GHWindows\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\下載\GHWindows\GHWindows\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\下載\GHWindows\GHWindows\obj\Debug\GHWindows.csprojResolveAssemblyReference.cache
+D:\下載\GHWindows\GHWindows\obj\Debug\GHWindows.Form1.resources
+D:\下載\GHWindows\GHWindows\obj\Debug\GHWindows.Properties.Resources.resources
+D:\下載\GHWindows\GHWindows\obj\Debug\GHWindows.csproj.GenerateResource.Cache

@@ -1,0 +1,27 @@
+﻿  WeakClassifier.cpp
+  StrongClassfier.cpp
+  Segment.cpp
+  Rect.cpp
+  Point.cpp
+  MNDTLibrary.cpp
+  Library.cpp
+d:\visual studio 2013 project\projects\mndtlibrary\mndtlibrary\library.cpp(1702): warning C4018: '<=': signed/unsigned mismatch
+d:\visual studio 2013 project\projects\mndtlibrary\mndtlibrary\library.cpp(1704): warning C4018: '<=': signed/unsigned mismatch
+d:\visual studio 2013 project\projects\mndtlibrary\mndtlibrary\library.cpp(1715): warning C4018: '<=': signed/unsigned mismatch
+d:\visual studio 2013 project\projects\mndtlibrary\mndtlibrary\library.cpp(1717): warning C4018: '<=': signed/unsigned mismatch
+  LBPFeature.cpp
+  LBP.cpp
+  Image.cpp
+  Hough.cpp
+  HOG.cpp
+  GraphTree.cpp
+  general.cpp
+  GaussianElimination.cpp
+  draw.cpp
+  Detection.cpp
+  Bitmap.cpp
+  AdaBoost.cpp
+  Generating Code...
+     Creating library D:\Visual Studio 2013 Project\Projects\MNDTLibrary\Debug\MNDTLibrary.lib and object D:\Visual Studio 2013 Project\Projects\MNDTLibrary\Debug\MNDTLibrary.exp
+  MNDTLibrary.vcxproj -> D:\Visual Studio 2013 Project\Projects\MNDTLibrary\Debug\MNDTLibrary.dll
+  MNDTLibrary.vcxproj -> D:\Visual Studio 2013 Project\Projects\MNDTLibrary\Debug\MNDTLibrary.pdb (Full PDB)

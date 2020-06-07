@@ -1,0 +1,3 @@
+﻿  AdaBoostAPI.cpp
+  LBPFeature.cpp
+LINK : fatal error LNK1104: cannot open file 'D:\Visual Studio 2013 Project\Projects\AdaBoostAPI\Release\AdaBoostAPI.exe'

@@ -1,0 +1,5 @@
+﻿  AdaBoostAPI.cpp
+d:\visual studio 2013 project\projects\adaboostapi\adaboostapi\adaboostapi.cpp(47): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio 2013 project\projects\adaboostapi\adaboostapi\adaboostapi.cpp(49): warning C4018: '<': signed/unsigned mismatch
+  AdaBoostAPI.vcxproj -> D:\Visual Studio 2013 Project\Projects\AdaBoostAPI\Debug\AdaBoostAPI.exe
+  AdaBoostAPI.vcxproj -> D:\Visual Studio 2013 Project\Projects\AdaBoostAPI\Debug\AdaBoostAPI.pdb (Full PDB)

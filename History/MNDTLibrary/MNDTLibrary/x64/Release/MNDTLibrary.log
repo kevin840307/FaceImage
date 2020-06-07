@@ -1,0 +1,9 @@
+﻿  MNDTLibrary.cpp
+     正在建立程式庫 D:\Visual Studio 2015\Project\MNDTLibrary\x64\Release\MNDTLibrary.lib 和物件 D:\Visual Studio 2015\Project\MNDTLibrary\x64\Release\MNDTLibrary.exp
+  正在產生程式碼
+  1 of 132 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    16 functions had inline decision re-evaluated but remain unchanged
+  已完成程式碼產生
+  MNDTLibrary.vcxproj -> D:\Visual Studio 2015\Project\MNDTLibrary\x64\Release\MNDTLibrary.dll
+  MNDTLibrary.vcxproj -> D:\Visual Studio 2015\Project\MNDTLibrary\x64\Release\MNDTLibrary.pdb (Full PDB)

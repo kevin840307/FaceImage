@@ -1,0 +1,22 @@
+﻿  Bitmap.cpp
+  Detection.cpp
+  HOG.cpp
+  Hough.cpp
+  LBP.cpp
+  LBPFeature.cpp
+LBPFeature.cpp(58): warning C4267: 'initializing': conversion from 'size_t' to 'const C_UINT32', possible loss of data
+LBPFeature.cpp(58): warning C4267: 'initializing': conversion from 'size_t' to 'C_UINT32', possible loss of data
+  Library.cpp
+Library.cpp(1720): warning C4018: '<=': signed/unsigned mismatch
+Library.cpp(1722): warning C4018: '<=': signed/unsigned mismatch
+Library.cpp(1733): warning C4018: '<=': signed/unsigned mismatch
+Library.cpp(1735): warning C4018: '<=': signed/unsigned mismatch
+Library.cpp(1836): warning C4018: '<': signed/unsigned mismatch
+Library.cpp(1838): warning C4018: '<': signed/unsigned mismatch
+Library.cpp(1920): warning C4018: '<': signed/unsigned mismatch
+  MNDTLibrary.cpp
+  Segment.cpp
+  Generating Code...
+     Creating library D:\Visual Studio 2013 Project\Projects\MNDTLibrary\x64\Debug\MNDTLibrary.lib and object D:\Visual Studio 2013 Project\Projects\MNDTLibrary\x64\Debug\MNDTLibrary.exp
+  MNDTLibrary.vcxproj -> D:\Visual Studio 2013 Project\Projects\MNDTLibrary\x64\Debug\MNDTLibrary.dll
+  MNDTLibrary.vcxproj -> D:\Visual Studio 2013 Project\Projects\MNDTLibrary\x64\Debug\MNDTLibrary.pdb (Full PDB)

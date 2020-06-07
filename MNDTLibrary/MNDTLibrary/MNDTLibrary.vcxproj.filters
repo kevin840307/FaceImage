@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="原始程式檔">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="標頭檔">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="資源檔">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="標頭檔\Tool">
+      <UniqueIdentifier>{bf9f241a-9437-40d4-a86c-4ca4295c1254}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="資源檔\Tool">
+      <UniqueIdentifier>{40fc6fab-0f16-4ed5-9784-815150e73a5d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="標頭檔\Segment">
+      <UniqueIdentifier>{4888328a-7cc9-41b1-bd1b-1c07caf39881}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="資源檔\Segment">
+      <UniqueIdentifier>{166a2ee5-cd23-44ac-a07b-5d164ab4e554}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="資源檔\Feature">
+      <UniqueIdentifier>{7b2fa3cc-1427-4b40-84f0-fc140d5e8f6a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="標頭檔\Feature">
+      <UniqueIdentifier>{5c8c492b-c9c9-4239-9e8a-029bcbbb2dd1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="資源檔\Library">
+      <UniqueIdentifier>{9f61a816-a152-4c36-b081-6c2c97c2d907}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="標頭檔\Library">
+      <UniqueIdentifier>{584f591e-ca3a-46bc-bbfe-1ceb09c567d1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="資源檔\AdaBoost">
+      <UniqueIdentifier>{dc1b84d9-84c1-48ec-bd4d-705bcadd0532}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="標頭檔\AdaBoost">
+      <UniqueIdentifier>{7f28e6e5-8fa8-495f-8a51-5cb9dab07630}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="資源檔\Detection">
+      <UniqueIdentifier>{2b523250-68f0-4d55-a794-f6ad05d2a087}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="標頭檔\Detection">
+      <UniqueIdentifier>{51d04231-ad2c-415d-b3d4-62e4edd5f6dc}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MNDTLibrary.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
+    <ClCompile Include="Image.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
+    <ClCompile Include="general.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
+    <ClCompile Include="Point.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
+    <ClCompile Include="Rect.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
+    <ClCompile Include="draw.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
+    <ClCompile Include="GaussianElimination.cpp">
+      <Filter>資源檔\Tool</Filter>
+    </ClCompile>
+    <ClCompile Include="Segment.cpp">
+      <Filter>資源檔\Segment</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphTree.cpp">
+      <Filter>資源檔\Segment</Filter>
+    </ClCompile>
+    <ClCompile Include="LBP.cpp">
+      <Filter>資源檔\Feature</Filter>
+    </ClCompile>
+    <ClCompile Include="HOG.cpp">
+      <Filter>資源檔\Feature</Filter>
+    </ClCompile>
+    <ClCompile Include="Hough.cpp">
+      <Filter>資源檔\Library</Filter>
+    </ClCompile>
+    <ClCompile Include="Library.cpp">
+      <Filter>資源檔\Library</Filter>
+    </ClCompile>
+    <ClCompile Include="AdaBoost.cpp">
+      <Filter>資源檔\AdaBoost</Filter>
+    </ClCompile>
+    <ClCompile Include="WeakClassifier.cpp">
+      <Filter>資源檔\AdaBoost</Filter>
+    </ClCompile>
+    <ClCompile Include="StrongClassfier.cpp">
+      <Filter>資源檔\AdaBoost</Filter>
+    </ClCompile>
+    <ClCompile Include="LBPFeature.cpp">
+      <Filter>資源檔\Feature</Filter>
+    </ClCompile>
+    <ClCompile Include="Detection.cpp">
+      <Filter>資源檔\Detection</Filter>
+    </ClCompile>
+    <ClCompile Include="Bitmap.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="general.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="Image.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="draw.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="Point.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="Rect.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="GaussianElimination.h">
+      <Filter>標頭檔\Tool</Filter>
+    </ClInclude>
+    <ClInclude Include="Segment.h">
+      <Filter>標頭檔\Segment</Filter>
+    </ClInclude>
+    <ClInclude Include="GraphTree.h">
+      <Filter>標頭檔\Segment</Filter>
+    </ClInclude>
+    <ClInclude Include="LBP.h">
+      <Filter>標頭檔\Feature</Filter>
+    </ClInclude>
+    <ClInclude Include="HOG.h">
+      <Filter>標頭檔\Feature</Filter>
+    </ClInclude>
+    <ClInclude Include="Hough.h">
+      <Filter>標頭檔\Library</Filter>
+    </ClInclude>
+    <ClInclude Include="Library.h">
+      <Filter>標頭檔\Library</Filter>
+    </ClInclude>
+    <ClInclude Include="AdaBoost.h">
+      <Filter>標頭檔\AdaBoost</Filter>
+    </ClInclude>
+    <ClInclude Include="WeakClassifier.h">
+      <Filter>標頭檔\AdaBoost</Filter>
+    </ClInclude>
+    <ClInclude Include="StrongClassfier.h">
+      <Filter>標頭檔\AdaBoost</Filter>
+    </ClInclude>
+    <ClInclude Include="LBPFeature.h">
+      <Filter>標頭檔\Feature</Filter>
+    </ClInclude>
+    <ClInclude Include="Detection.h">
+      <Filter>標頭檔\Detection</Filter>
+    </ClInclude>
+    <ClInclude Include="Bitmap.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
